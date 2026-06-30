@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contacts{
+    line-height: 50px;
+}
+.contacts span{
+    display: inline-block;
+}
+.social a{
+    display: inline-block;
+}
+.logo a img{
+    width:70%;
+}
+.cat-image-box img{
+    width: 100%;
+}
+.carousel img{
+
+    width: 100%;
+}
